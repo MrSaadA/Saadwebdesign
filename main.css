@@ -1,0 +1,52 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css');
+html,
+
+
+body {
+  height: 100%
+}
+
+body {
+    background-image: url('images/saed.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+hi, h2 {
+    font-family: 'Holtwood One SC', sans-serif;
+    font-weight:bold;
+    text-align: center;
+    color:rgba(19, 15, 1, 0.87)
+}
+.center {
+    text-align: center;
+    font-weight:bold;
+}
+.bg {
+    background-color:rgb(43, 165, 71)
+}
+* p {
+    padding: 10px 100px 10px;
+    margin: 25px 90px 25px;
+}
+
+/* div {
+    box-sizing: border-box;
+    width: 70%;
+    float: center;
+    border-radius: 10%;
+    background-color: rgb(200, 250, 135)
+} */
+
+
+
+/* *{background-color: rgb(200, 250, 135);} */
+/* .large{font-size: 50px;}   in html I should add class="large" to the targeted section, 
+also, can be used with div like this 
+bluebackground {background_color =blue;}  and in html <div class= bluebackground */
+
+
+/* .container {display: flex; -ms-flex-direction: raw;} */
+/* .container {display:flex; space-between:} */
+
+
